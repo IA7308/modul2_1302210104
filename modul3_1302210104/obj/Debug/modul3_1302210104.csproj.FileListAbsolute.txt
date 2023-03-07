@@ -1,0 +1,11 @@
+D:\GitHub\modul2_1302210104\modul3_1302210104\bin\Debug\modul3_1302210104.exe.config
+D:\GitHub\modul2_1302210104\modul3_1302210104\bin\Debug\modul3_1302210104.exe
+D:\GitHub\modul2_1302210104\modul3_1302210104\bin\Debug\modul3_1302210104.pdb
+D:\GitHub\modul2_1302210104\modul3_1302210104\obj\Debug\modul3_1302210104.csproj.AssemblyReference.cache
+D:\GitHub\modul2_1302210104\modul3_1302210104\obj\Debug\modul3_1302210104.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\modul2_1302210104\modul3_1302210104\obj\Debug\modul3_1302210104.Form1.resources
+D:\GitHub\modul2_1302210104\modul3_1302210104\obj\Debug\modul3_1302210104.Properties.Resources.resources
+D:\GitHub\modul2_1302210104\modul3_1302210104\obj\Debug\modul3_1302210104.csproj.GenerateResource.cache
+D:\GitHub\modul2_1302210104\modul3_1302210104\obj\Debug\modul3_1302210104.csproj.CoreCompileInputs.cache
+D:\GitHub\modul2_1302210104\modul3_1302210104\obj\Debug\modul3_1302210104.exe
+D:\GitHub\modul2_1302210104\modul3_1302210104\obj\Debug\modul3_1302210104.pdb
